@@ -1,0 +1,16 @@
+
+.container__artigos{
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+    padding: 1rem;
+    justify-content: space-between;
+}
+.container__artigo__bigCard{
+    width: 56%;
+     margin-left: 0.5rem ;
+}
+.container__artigo_smallCard{
+    width: 40%;
+    
+}
